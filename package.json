@@ -2,7 +2,7 @@
   "name": "resort",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/khan03148/BeachResturant.git",
+  "homepage": "https://khan03148.github.io/BeachResturant",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
